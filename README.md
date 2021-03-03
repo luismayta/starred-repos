@@ -1637,7 +1637,7 @@
 | 4 |  [hammerspoon-config](https://github.com/rsefer/hammerspoon-config) | Custom hammerspoon config, Spoons, etc. | rsefer | 3 |
 | 5 |  [hhtwm](https://github.com/szymonkaliski/hhtwm) | hackable tiling window manager for macOS and Hammerspoon | szymonkaliski | 84 |
 | 6 |  [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) | No nonsense floating terminal written in Lua. | numToStr | 61 |
-| 7 |  [packer.nvim](https://github.com/wbthomason/packer.nvim) | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | wbthomason | 355 |
+| 7 |  [packer.nvim](https://github.com/wbthomason/packer.nvim) | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | wbthomason | 356 |
 | 8 |  [lua-lsp](https://github.com/Alloyed/lua-lsp) | A Lua language server | Alloyed | 217 |
 | 9 |  [VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) | Adds vim keybindings to all OS X inputs | dbalatero | 254 |
 | 10 |  [hammer-vim](https://github.com/kaichaosun/hammer-vim) | Navigate apps like Vim on Mac | kaichaosun | 9 |
@@ -2181,8 +2181,8 @@
 | 58 |  [Watson](https://github.com/TailorDev/Watson) | :watch: A wonderful CLI to track your time! | TailorDev | 1709 |
 | 59 |  [unirest-python](https://github.com/Kong/unirest-python) | Unirest in Python: Simplified, lightweight HTTP client library. | Kong | 428 |
 | 60 |  [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 | testerSunshine | 29466 |
-| 61 |  [transformers](https://github.com/huggingface/transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | huggingface | 41738 |
-| 62 |  [shadowsocks](https://github.com/shadowsocks/shadowsocks) |  | shadowsocks | 32951 |
+| 61 |  [transformers](https://github.com/huggingface/transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | huggingface | 41739 |
+| 62 |  [shadowsocks](https://github.com/shadowsocks/shadowsocks) |  | shadowsocks | 32952 |
 | 63 |  [python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer) | An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues. | sethblack | 528 |
 | 64 |  [mindmeld](https://github.com/cisco/mindmeld) | An Open Source Conversational AI Platform for Deep-Domain Voice Interfaces and Chatbots. | cisco | 443 |
 | 65 |  [tika-python](https://github.com/chrismattmann/tika-python) | Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community. | chrismattmann | 991 |
@@ -2372,7 +2372,7 @@
 | 249 |  [kev](https://github.com/capless/kev) | K.E.V. (Keys, Extras, and Values) is a Python ORM for key-value stores based on Valley. Currently supported backends are Redis, S3, and a S3/Redis hybrid backend. Based on Valley. | capless | 94 |
 | 250 |  [flasgger](https://github.com/flasgger/flasgger) | Easy OpenAPI specs and Swagger UI for your Flask API | flasgger | 2463 |
 | 251 |  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) | We have made you a wrapper you can&#39;t refuse | python-telegram-bot | 13937 |
-| 252 |  [keras](https://github.com/keras-team/keras) | Deep Learning for humans | keras-team | 50793 |
+| 252 |  [keras](https://github.com/keras-team/keras) | Deep Learning for humans | keras-team | 50794 |
 | 253 |  [tourcms](https://github.com/prio/tourcms) | Python wrapper class for TourCMS.com Rest API | prio | 1 |
 | 254 |  [shift-boiler](https://github.com/projectshift/shift-boiler) | Best practices setup for large webapps, apis and cli applications with flask | projectshift | 11 |
 | 255 |  [django-warrant](https://github.com/MetaMetricsInc/django-warrant) | Django package that uses AWS Cognito and Warrant to create a Django backend and common views. | MetaMetricsInc | 150 |
@@ -3302,7 +3302,7 @@
 | 99 |  [pdf-service-aws](https://github.com/type-flow/pdf-service-aws) | Serverless AWS Lambda function for generating invoice pdfs for the company Typeflow e.U. | type-flow | 3 |
 | 100 |  [etcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards &amp; USB drives, safely and easily. | balena-io | 20012 |
 | 101 |  [puppeteer](https://github.com/puppeteer/puppeteer) | Headless Chrome Node.js API | puppeteer | 69048 |
-| 102 |  [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ant-design | 28480 |
+| 102 |  [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro! | ant-design | 28481 |
 | 103 |  [superstruct](https://github.com/ianstormtaylor/superstruct) | A simple and composable way to validate data in JavaScript (and TypeScript). | ianstormtaylor | 4819 |
 | 104 |  [probot](https://github.com/probot/probot) | 🤖 A framework for building GitHub Apps to automate and improve your workflow | probot | 6626 |
 | 105 |  [Chatito](https://github.com/rodrigopivi/Chatito) | 🎯🗯 Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL! | rodrigopivi | 674 |
