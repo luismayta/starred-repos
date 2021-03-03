@@ -1843,7 +1843,7 @@
 | 123 |  [ansible-playbook-rabbitmq](https://github.com/Mayeu/ansible-playbook-rabbitmq) | UNMAINTAINED. A playbook to install and configure RabbitMQ. | Mayeu | 103 |
 | 124 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 178242 |
 | 125 |  [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books | dariubs | 8987 |
-| 126 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 154193 |
+| 126 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 154194 |
 | 127 |  [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and others. | emacs-tw | 6289 |
 | 128 |  [php-nudity-filter](https://github.com/azwan082/php-nudity-filter) |  | azwan082 | 23 |
 | 129 |  [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) | 💀 The former home of Homebrew/homebrew (deprecated) | Homebrew | 27580 |
@@ -2181,7 +2181,7 @@
 | 58 |  [Watson](https://github.com/TailorDev/Watson) | :watch: A wonderful CLI to track your time! | TailorDev | 1709 |
 | 59 |  [unirest-python](https://github.com/Kong/unirest-python) | Unirest in Python: Simplified, lightweight HTTP client library. | Kong | 428 |
 | 60 |  [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 | testerSunshine | 29466 |
-| 61 |  [transformers](https://github.com/huggingface/transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | huggingface | 41737 |
+| 61 |  [transformers](https://github.com/huggingface/transformers) | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | huggingface | 41738 |
 | 62 |  [shadowsocks](https://github.com/shadowsocks/shadowsocks) |  | shadowsocks | 32951 |
 | 63 |  [python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer) | An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues. | sethblack | 528 |
 | 64 |  [mindmeld](https://github.com/cisco/mindmeld) | An Open Source Conversational AI Platform for Deep-Domain Voice Interfaces and Chatbots. | cisco | 443 |
@@ -2764,7 +2764,7 @@
 | 4 |  [colorls](https://github.com/athityakumar/colorls) | A Ruby gem that beautifies the terminal&#39;s ls command, with color and font-awesome icons. :tada: | athityakumar | 3502 |
 | 5 |  [maximum-awesome](https://github.com/square/maximum-awesome) | Config files for vim and tmux. | square | 5510 |
 | 6 |  [homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) | Emacs Plus formulae for the Homebrew package manager | d12frosted | 951 |
-| 7 |  [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | rapid7 | 23274 |
+| 7 |  [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | rapid7 | 23275 |
 | 8 |  [next-right-now](https://github.com/UnlyEd/next-right-now) | Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support | UnlyEd | 654 |
 | 9 |  [classroom](https://github.com/education/classroom) | GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub. | education | 1244 |
 | 10 |  [terraform-landscape](https://github.com/coinbase/terraform-landscape) | Improve Terraform&#39;s plan output to be easier to read and understand | coinbase | 1256 |
@@ -2945,7 +2945,7 @@
 | 25 |  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | Fish-like autosuggestions for zsh | zsh-users | 16422 |
 | 26 |  [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️  A command-line system information tool written in bash 3.2+ | dylanaraps | 11029 |
 | 27 |  [lscript](https://github.com/arismelachroinos/lscript) | The LAZY script will make your life easier, and of course faster. | arismelachroinos | 2698 |
-| 28 |  [bitbar-plugins](https://github.com/matryer/bitbar-plugins) | Plugin repository for BitBar | matryer | 1672 |
+| 28 |  [bitbar-plugins](https://github.com/matryer/bitbar-plugins) | Plugin repository for BitBar | matryer | 1673 |
 | 29 |  [gitignore](https://github.com/toptal/gitignore) | The largest collection of useful .gitignore templates | toptal | 816 |
 | 30 |  [dotfiles](https://github.com/westonsteimel/dotfiles) | Personal dotfiles | westonsteimel | 1 |
 | 31 |  [dotfiles](https://github.com/uetchy/dotfiles) | dotfiles | uetchy | 7 |
