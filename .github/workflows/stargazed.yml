@@ -10,8 +10,8 @@ on:
 
 env:
   NODE_VERSION: 14.15.5
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  GITHUB_USERNAME: luismayta
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  GH_USERNAME: luismayta
 
 jobs:
   build:
@@ -83,4 +83,4 @@ jobs:
       - name: update repo
         id: update_repo
         run: |
-          yarn stargazed --username  ${{ env.GITHUB_USERNAME }} --token ${{ env.GITHUB_TOKEN }} --repo "starred-repos" --message "ci: stargazed update by github actions workflow" --sort
+          yarn stargazed --username  ${{ env.GH_USERNAME }} --token ${{ env.GH_TOKEN }} --repo "starred-repos" --message "ci: stargazed update by github actions workflow" --sort
