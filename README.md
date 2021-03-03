@@ -1183,7 +1183,7 @@
 | 2 |  [eureka](https://github.com/Netflix/eureka) | AWS Service registry for resilient mid-tier load balancing and failover. | Netflix | 10237 |
 | 3 |  [opengrok](https://github.com/oracle/opengrok) | OpenGrok is a fast and usable source code search and cross reference engine, written in Java | oracle | 3206 |
 | 4 |  [plantuml](https://github.com/plantuml/plantuml) | Generate UML diagram from textual description | plantuml | 3840 |
-| 5 |  [neo4j](https://github.com/neo4j/neo4j) | Graphs for Everyone | neo4j | 8676 |
+| 5 |  [neo4j](https://github.com/neo4j/neo4j) | Graphs for Everyone | neo4j | 8677 |
 | 6 |  [storm](https://github.com/apache/storm) | Mirror of Apache Storm | apache | 6201 |
 | 7 |  [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | dbeaver | 19175 |
 | 8 |  [docker-workflow-plugin](https://github.com/jenkinsci/docker-workflow-plugin) | Jenkins plugin which allows building, testing, and using Docker images from Jenkins Pipeline projects. | jenkinsci | 418 |
@@ -1546,7 +1546,7 @@
 | 320 |  [resume.github.com](https://github.com/resume/resume.github.com) | Resumes generated using the GitHub informations | resume | 48017 |
 | 321 |  [bootstrap3-dialog](https://github.com/nakupanda/bootstrap3-dialog) | Make use of Twitter Bootstrap&#39;s modal more monkey-friendly. | nakupanda | 1918 |
 | 322 |  [popcorn](https://github.com/montagejs/popcorn) | Sample Montage application | montagejs | 48 |
-| 323 |  [node](https://github.com/nodejs/node) | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | nodejs | 77360 |
+| 323 |  [node](https://github.com/nodejs/node) | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | nodejs | 77361 |
 | 324 |  [node-redis](https://github.com/NodeRedis/node-redis) | A high performance Node.js Redis client. | NodeRedis | 13623 |
 | 325 |  [gulp-css-url-versioner](https://github.com/jansanchez/gulp-css-url-versioner) | A gulp plugin for versioning the CSS property: url | jansanchez | 19 |
 | 326 |  [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) | Draws simple SVG sequence diagrams from textual representation of the diagram | bramp | 7202 |
@@ -1724,7 +1724,7 @@
 | 4 |  [AnotherStorm](https://github.com/MairwunNx/AnotherStorm) | 😍 A cool dark theme for Telegram Desktop | MairwunNx | 17 |
 | 5 |  [awesome-telegram](https://github.com/ebertti/awesome-telegram) | Collection great groups, channels, bots and libraries for Telegram | ebertti | 497 |
 | 6 |  [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | Curated list of resources on HashiCorp&#39;s Terraform | shuaibiyy | 2009 |
-| 7 |  [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Collections of awesome neovim plugins. | rockerBOO | 275 |
+| 7 |  [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Collections of awesome neovim plugins. | rockerBOO | 276 |
 | 8 |  [my-mac-os](https://github.com/n0a/my-mac-os) | List of applications and tools that make my macOS experience even more amazing | n0a | 1 |
 | 9 |  [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern. | kettanaito | 7486 |
 | 10 |  [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming | bnb | 6597 |
@@ -2144,7 +2144,7 @@
 | 21 |  [toilet-bot](https://github.com/daveFNbuck/toilet-bot) | Bot for alerting people when the toilet is free. | daveFNbuck | 17 |
 | 22 |  [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) | :stars: Dark powered asynchronous completion framework for neovim/Vim8 | Shougo | 5493 |
 | 23 |  [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) | A code-completion engine for Vim | ycm-core | 22573 |
-| 24 |  [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | kovidgoyal | 10756 |
+| 24 |  [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | kovidgoyal | 10757 |
 | 25 |  [spotify-downloader](https://github.com/spotDL/spotify-downloader) | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). | spotDL | 5140 |
 | 26 |  [hubspot3](https://github.com/jpetrucciani/hubspot3) | python3.5+ hubspot client based on hapipy, but modified to use the newer endpoints and non-legacy python | jpetrucciani | 122 |
 | 27 |  [sentry-slack](https://github.com/getsentry/sentry-slack) | DEPRECATED Slack integration for Sentry | getsentry | 135 |
@@ -2264,7 +2264,7 @@
 | 141 |  [pyflakes](https://github.com/PyCQA/pyflakes) | A simple program which checks Python source files for errors | PyCQA | 986 |
 | 142 |  [pytest-metadata](https://github.com/pytest-dev/pytest-metadata) | Plugin for accessing test session metadata | pytest-dev | 34 |
 | 143 |  [betamax](https://github.com/betamaxpy/betamax) | A VCR imitation designed only for python-requests. | betamaxpy | 464 |
-| 144 |  [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | tiangolo | 28090 |
+| 144 |  [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | tiangolo | 28091 |
 | 145 |  [ml-desnapify](https://github.com/ipsingh06/ml-desnapify) | Deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images | ipsingh06 | 121 |
 | 146 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 122795 |
 | 147 |  [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) | High level Python client for Elasticsearch | elastic | 3162 |
@@ -2903,7 +2903,7 @@
 | 2 |  [elasticmq](https://github.com/softwaremill/elasticmq) | In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded. | softwaremill | 1569 |
 | 3 |  [prisma1](https://github.com/prisma/prisma1) | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL &amp; MongoDB) | prisma | 16863 |
 | 4 |  [salesforce-webhook-creator](https://github.com/jamesward/salesforce-webhook-creator) |  | jamesward | 134 |
-| 5 |  [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | rtyley | 7343 |
+| 5 |  [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | rtyley | 7344 |
 | 6 |  [chronos](https://github.com/mesos/chronos) | Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules | mesos | 4272 |
 
 **[⬆ Back to Index](#-contents)**
@@ -3296,7 +3296,7 @@
 | 93 |  [iota.js](https://github.com/iotaledger/iota.js) | IOTA JavaScript monorepo | iotaledger | 911 |
 | 94 |  [Mailspring](https://github.com/Foundry376/Mailspring) | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | Foundry376 | 10172 |
 | 95 |  [vercel](https://github.com/vercel/vercel) | Develop. Preview. Ship. | vercel | 6791 |
-| 96 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 111841 |
+| 96 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 111842 |
 | 97 |  [vscode-ag](https://github.com/zjhmale/vscode-ag) | The Silver Searcher for Visual Studio Code | zjhmale | 25 |
 | 98 |  [oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | onivim | 11448 |
 | 99 |  [pdf-service-aws](https://github.com/type-flow/pdf-service-aws) | Serverless AWS Lambda function for generating invoice pdfs for the company Typeflow e.U. | type-flow | 3 |
