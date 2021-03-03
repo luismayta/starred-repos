@@ -1,22 +1,86 @@
-name: "Update by stargazed"
+name: Update by stargazed
+
 # This workflow runs at 00:30 everyday
 on:
   schedule:
     - cron: "30 0 * * *"
+  push:
+    branches:
+      - develop
+
+env:
+  NODE_VERSION: 14.15.5
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_USERNAME: luismayta
+
 jobs:
   build:
-    name: "stargazed update"
-    runs-on: ubuntu-latest
+    name: build stargazed
+    runs-on: Ubuntu-20.04
+
     steps:
-      - name: "uses github actions"
+      - name: Check out a copy of the repo
         uses: actions/checkout@v2
-      - name: "uses node.js 12.x"
-        uses: actions/setup-node@v1
+
+      - name: Use Node.js ${{ env.NODE_VERSION }}
+        uses: actions/setup-node@v2
         with:
-          node-version: 12.x
-      - name: "run install package"
-        run: "npm install --global stargazed"
-      - name: "run update repo"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          run: 'stargazed --username  "luismayta" --token ${GITHUB_TOKEN} --repo "starred-repos" --message "ci: stargazed update by github actions workflow" --sort'
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: install yarn
+        run: npm install -g yarn
+
+      - name: Get Yarn cache path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache Yarn cache and node_modules
+        id: cache-dependencies
+        uses: actions/cache@v2
+        with:
+          path: |
+            ${{ steps.yarn-cache-dir-path.outputs.dir }}
+            node_modules
+          key: ${{ runner.os }}-${{ env.NODE_VERSION }}-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: ${{ runner.os }}-${{ env.NODE_VERSION }}-
+
+      - name: Install dependencies
+        run: yarn install
+        if: steps.cache-dependencies.outputs.cache-hit != 'true'
+
+  deploy:
+    name: stargazed update
+    runs-on: Ubuntu-20.04
+    needs:
+      - build
+
+    steps:
+      - name: Check out a copy of the repo
+        uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ env.NODE_VERSION }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: install yarn
+        run: npm install -g yarn
+
+      - name: Get Yarn cache path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache Yarn cache and node_modules
+        id: cache-dependencies
+        uses: actions/cache@v2
+        with:
+          path: |
+            ${{ steps.yarn-cache-dir-path.outputs.dir }}
+            node_modules
+          key: ${{ runner.os }}-${{ env.NODE_VERSION }}-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: ${{ runner.os }}-${{ env.NODE_VERSION }}-
+
+      - name: update repo
+        id: update_repo
+        run: |
+          yarn stargazed --username  ${{ env.GITHUB_USERNAME }} --token ${{ env.GITHUB_TOKEN }} --repo "starred-repos" --message "ci: stargazed update by github actions workflow" --sort
