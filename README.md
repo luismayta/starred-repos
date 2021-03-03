@@ -147,7 +147,7 @@
 | 52 |  [xmplayer](https://github.com/LibXenonProject/xmplayer) | LibXenon Mplayer port - by Ced2911 | LibXenonProject | 19 |
 | 53 |  [tig](https://github.com/jonas/tig) | Text-mode interface for git | jonas | 9818 |
 | 54 |  [progress](https://github.com/Xfennec/progress) | Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) | Xfennec | 5297 |
-| 55 |  [wrk](https://github.com/wg/wrk) | Modern HTTP benchmarking tool | wg | 27799 |
+| 55 |  [wrk](https://github.com/wg/wrk) | Modern HTTP benchmarking tool | wg | 27800 |
 | 56 |  [MAMEHub](https://github.com/MisterTea/MAMEHub) | Netplay-capable multi-machine emulator | MisterTea | 92 |
 | 57 |  [phpredis](https://github.com/phpredis/phpredis) | A PHP extension for Redis | phpredis | 8881 |
 | 58 |  [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | redis | 47678 |
@@ -1031,7 +1031,7 @@
 | 507 |  [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | github | 20777 |
 | 508 |  [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | grpc | 13221 |
 | 509 |  [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | moby | 59745 |
-| 510 |  [influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | influxdata | 20779 |
+| 510 |  [influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | influxdata | 20780 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1728,7 +1728,7 @@
 | 8 |  [my-mac-os](https://github.com/n0a/my-mac-os) | List of applications and tools that make my macOS experience even more amazing | n0a | 1 |
 | 9 |  [naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) | Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern. | kettanaito | 7486 |
 | 10 |  [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming | bnb | 6597 |
-| 11 |  [alacritty-theme](https://github.com/eendroroy/alacritty-theme) | Collection of Alacritty color schemes | eendroroy | 655 |
+| 11 |  [alacritty-theme](https://github.com/eendroroy/alacritty-theme) | Collection of Alacritty color schemes | eendroroy | 656 |
 | 12 |  [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation | joelparkerhenderson | 4414 |
 | 13 |  [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) | Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub. | pstadler | 2384 |
 | 14 |  [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) | Use your macOS terminal shell to do awesome things. | herrbischoff | 24669 |
@@ -1843,7 +1843,7 @@
 | 123 |  [ansible-playbook-rabbitmq](https://github.com/Mayeu/ansible-playbook-rabbitmq) | UNMAINTAINED. A playbook to install and configure RabbitMQ. | Mayeu | 103 |
 | 124 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 178242 |
 | 125 |  [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books | dariubs | 8987 |
-| 126 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 154194 |
+| 126 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 154195 |
 | 127 |  [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and others. | emacs-tw | 6289 |
 | 128 |  [php-nudity-filter](https://github.com/azwan082/php-nudity-filter) |  | azwan082 | 23 |
 | 129 |  [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) | 💀 The former home of Homebrew/homebrew (deprecated) | Homebrew | 27580 |
@@ -2795,7 +2795,7 @@
 | 35 |  [xiki](https://github.com/trogdoro/xiki) | A shell console with GUI features | trogdoro | 3755 |
 | 36 |  [fpm](https://github.com/jordansissel/fpm) | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. | jordansissel | 9843 |
 | 37 |  [demo-repo](https://github.com/pre-commit/demo-repo) |  | pre-commit | 42 |
-| 38 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 27270 |
+| 38 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 27271 |
 | 39 |  [cheat](https://github.com/defunkt/cheat) | Cheating is fun! | defunkt | 239 |
 | 40 |  [packer-vagrant-templates](https://github.com/hansode/packer-vagrant-templates) | Packer Vagrant Templates for CentOS/Fedora | hansode | 40 |
 | 41 |  [redmine](https://github.com/redmine/redmine) | Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com | redmine | 4019 |
@@ -2918,7 +2918,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 786 |
+| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 787 |
 | 2 |  [WHATSAPP-BANEO](https://github.com/Hacking-pch/WHATSAPP-BANEO) |  | Hacking-pch | 50 |
 | 3 |  [wifi-password](https://github.com/rauchg/wifi-password) | Get the password of the wifi you&#39;re on (bash) | rauchg | 3498 |
 | 4 |  [telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) | Get IP address on other side audio call in Telegram. | n0a | 29 |
@@ -3042,7 +3042,7 @@
 | 122 |  [sftp](https://github.com/atmoz/sftp) | Securely share your files | atmoz | 891 |
 | 123 |  [spark](https://github.com/holman/spark) | ▁▂▃▅▂▇ in your shell. | holman | 5658 |
 | 124 |  [create_ap](https://github.com/oblique/create_ap) | [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point. | oblique | 4000 |
-| 125 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 47099 |
+| 125 |  [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | nvm-sh | 47100 |
 | 126 |  [gocker](https://github.com/ilourt/gocker) | A starter project using docker and golang | ilourt | 87 |
 | 127 |  [git-standup](https://github.com/kamranahmedse/git-standup) | Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-) | kamranahmedse | 6840 |
 | 128 |  [codepicnic-cloud](https://github.com/CodePicnic/codepicnic-cloud) |  | CodePicnic | 4 |
@@ -3205,7 +3205,7 @@
 | 2 |  [cache](https://github.com/actions/cache) | Cache dependencies and build outputs in GitHub Actions | actions | 1737 |
 | 3 |  [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | peaceiris | 1801 |
 | 4 |  [ant-design](https://github.com/ant-design/ant-design) | 🌈  A UI Design Language and React UI library | ant-design | 4242 |
-| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21016 |
+| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21017 |
 | 6 |  [vsinder](https://github.com/benawad/vsinder) | Dating App for VSCode | benawad | 1786 |
 | 7 |  [blog.hellorusk.net](https://github.com/HelloRusk/blog.hellorusk.net) | Tech Blog | HelloRusk | 28 |
 | 8 |  [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. | supabase | 6254 |
@@ -3276,7 +3276,7 @@
 | 73 |  [vscode-numbered-bookmarks](https://github.com/alefragnani/vscode-numbered-bookmarks) | Numbered Bookmarks Extension for Visual Studio Code | alefragnani | 90 |
 | 74 |  [Vim](https://github.com/VSCodeVim/Vim) | :star: Vim for Visual Studio Code | VSCodeVim | 8628 |
 | 75 |  [ReduxFormJest](https://github.com/nidhinkumar06/ReduxFormJest) | ReactJS + ReduxForm + Redux + Jest + Typescript | nidhinkumar06 | 7 |
-| 76 |  [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | microsoft | 68988 |
+| 76 |  [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | microsoft | 68989 |
 | 77 |  [Maskbook](https://github.com/DimensionDev/Maskbook) | The portal to the new, open internet. ([I:b]) | DimensionDev | 648 |
 | 78 |  [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code | aws | 6325 |
 | 79 |  [fish-redux-template](https://github.com/kokohuang/fish-redux-template) | Generate fish-redux Template for VSCode | kokohuang | 33 |
