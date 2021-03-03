@@ -136,7 +136,7 @@
 | 41 |  [paparazzi](https://github.com/paparazzi/paparazzi) | Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository. | paparazzi | 1173 |
 | 42 |  [xhyve](https://github.com/machyve/xhyve) | xhyve, a lightweight OS X virtualization solution | machyve | 6043 |
 | 43 |  [disque](https://github.com/antirez/disque) | Disque is a distributed message broker | antirez | 7745 |
-| 44 |  [pigz](https://github.com/madler/pigz) | A parallel implementation of gzip for modern multi-processor, multi-core machines. | madler | 1367 |
+| 44 |  [pigz](https://github.com/madler/pigz) | A parallel implementation of gzip for modern multi-processor, multi-core machines. | madler | 1368 |
 | 45 |  [hyperkit](https://github.com/moby/hyperkit) | A toolkit for embedding hypervisor capabilities in your application | moby | 2875 |
 | 46 |  [zstd](https://github.com/DataDog/zstd) | Zstd wrapper for Go | DataDog | 513 |
 | 47 |  [toaruos](https://github.com/klange/toaruos) | A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc. | klange | 3277 |
@@ -372,7 +372,7 @@
 | 7 |  [emacs-ssh-deploy](https://github.com/cjohansson/emacs-ssh-deploy) | A deployment plugin via Tramp for Emacs. | cjohansson | 112 |
 | 8 |  [spaceline](https://github.com/TheBB/spaceline) | Powerline theme from Spacemacs | TheBB | 477 |
 | 9 |  [company-box](https://github.com/sebastiencs/company-box) | A company front-end with icons | sebastiencs | 393 |
-| 10 |  [lsp-mode](https://github.com/emacs-lsp/lsp-mode) | Emacs client/library for the Language Server Protocol | emacs-lsp | 3181 |
+| 10 |  [lsp-mode](https://github.com/emacs-lsp/lsp-mode) | Emacs client/library for the Language Server Protocol | emacs-lsp | 3182 |
 | 11 |  [omnisharp-emacs](https://github.com/OmniSharp/omnisharp-emacs) | Troll coworkers - use Emacs at work for csharp! | OmniSharp | 504 |
 | 12 |  [avy](https://github.com/abo-abo/avy) | Jump to things in Emacs tree-style | abo-abo | 1168 |
 | 13 |  [dotfiles](https://github.com/da-edra/dotfiles) | :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch] | da-edra | 717 |
@@ -1031,7 +1031,7 @@
 | 507 |  [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | github | 20777 |
 | 508 |  [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | grpc | 13221 |
 | 509 |  [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | moby | 59745 |
-| 510 |  [influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | influxdata | 20780 |
+| 510 |  [influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | influxdata | 20781 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1500,7 +1500,7 @@
 | 274 |  [aws-wercker](https://github.com/amrdraz/aws-wercker) | Build and Deploy your applications to OpenShift using two popular hosted continuous integration services, Travis CI and Wercker | amrdraz | 1 |
 | 275 |  [drawio](https://github.com/jgraph/drawio) | Source to app.diagrams.net | jgraph | 21933 |
 | 276 |  [Codeless-Node-APIs-With-Swagger-Open-API-Specification](https://github.com/bTreePress/Codeless-Node-APIs-With-Swagger-Open-API-Specification) | CODELESS-NODE-APIs-WITH-SWAGGER-OPEN-API-SPECIFICATION | bTreePress | 17 |
-| 277 |  [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects | elsewhencode | 24004 |
+| 277 |  [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects | elsewhencode | 24003 |
 | 278 |  [swapi-graphql](https://github.com/graphql/swapi-graphql) | A GraphQL schema and server wrapping SWAPI. | graphql | 919 |
 | 279 |  [quickstart](https://github.com/ines/quickstart) | 🎯 A micro-form for user-specific installation instructions | ines | 67 |
 | 280 |  [500lines](https://github.com/aosabook/500lines) | 500 Lines or Less | aosabook | 26311 |
@@ -1598,7 +1598,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [DeOldify](https://github.com/jantic/DeOldify) | A Deep Learning based project for colorizing and restoring old images (and video!) | jantic | 13019 |
 | 2 |  [industry-machine-learning](https://github.com/firmai/industry-machine-learning) | A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai) | firmai | 5833 |
-| 3 |  [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks | jakevdp | 28274 |
+| 3 |  [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks | jakevdp | 28275 |
 | 4 |  [docs](https://github.com/tensorflow/docs) | TensorFlow documentation | tensorflow | 4355 |
 | 5 |  [cs231n.github.io](https://github.com/cs231n/cs231n.github.io) | Public facing notes page | cs231n | 8087 |
 | 6 |  [smart-city-model](https://github.com/maxkferg/smart-city-model) | A real-time three dimensional GIS model for smart city orchestration | maxkferg | 2 |
@@ -1606,7 +1606,7 @@
 | 8 |  [Optimus](https://github.com/ironmussa/Optimus) | :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark | ironmussa | 982 |
 | 9 |  [Python](https://github.com/PlamenStilyianov/Python) | Python script and Documents | PlamenStilyianov | 332 |
 | 10 |  [100days](https://github.com/coells/100days) | 100 days of algorithms | coells | 6758 |
-| 11 |  [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | TensorFlow Tutorial and Examples for Beginners (support TF v1 &amp; v2) | aymericdamien | 40069 |
+| 11 |  [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | TensorFlow Tutorial and Examples for Beginners (support TF v1 &amp; v2) | aymericdamien | 40070 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1800,7 +1800,7 @@
 | 80 |  [fabric8](https://github.com/fabric8io/fabric8) | fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins | fabric8io | 1780 |
 | 81 |  [Medium-posts](https://github.com/SauceCat/Medium-posts) | My posts on Medium. | SauceCat | 4 |
 | 82 |  [api-standards](https://github.com/WhiteHouse/api-standards) |  | WhiteHouse | 2846 |
-| 83 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 48054 |
+| 83 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 48053 |
 | 84 |  [hyperzsh](https://github.com/tylerreckart/hyperzsh) | A hyperminimal zsh prompt | tylerreckart | 470 |
 | 85 |  [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) | A curated list of awesome Python asyncio frameworks, libraries, software and resources | timofurrer | 2854 |
 | 86 |  [lab](https://github.com/mtjddnr/lab) |  | mtjddnr | 23 |
@@ -1817,7 +1817,7 @@
 | 97 |  [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API | shieldfy | 15415 |
 | 98 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 | kamranahmedse | 150419 |
 | 99 |  [go-serverless-list](https://github.com/SerifAndSemaphore/go-serverless-list) | A list of serverless resources, tools, and frameworks specifically for Golang. | SerifAndSemaphore | 122 |
-| 100 |  [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | sdmg15 | 35026 |
+| 100 |  [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | sdmg15 | 35025 |
 | 101 |  [yasnippet-go](https://github.com/dominikh/yasnippet-go) |  | dominikh | 45 |
 | 102 |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) | An ultra-simplified explanation to design patterns | kamranahmedse | 30353 |
 | 103 |  [ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) | An ansible role to generate TLS certificates and get them signed by Let&#39;s Encrypt | thefinn93 | 432 |
@@ -3145,7 +3145,7 @@
 | 225 |  [top-programming-fonts](https://github.com/hbin/top-programming-fonts) |  | hbin | 1923 |
 | 226 |  [veewee](https://github.com/jedi4ever/veewee) | Easing the building of vagrant boxes | jedi4ever | 4283 |
 | 227 |  [bento](https://github.com/chef/bento) | Packer templates for building minimal Vagrant baseboxes for multiple platforms | chef | 3597 |
-| 228 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20861 |
+| 228 |  [dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | dokku | 20862 |
 | 229 |  [gvm](https://github.com/moovweb/gvm) | Go Version Manager | moovweb | 6034 |
 | 230 |  [clocker](https://github.com/brooklyncentral/clocker) | Apache Brooklyn cloud native infrastructure blueprints | brooklyncentral | 431 |
 | 231 |  [rbenv](https://github.com/rbenv/rbenv) | Groom your app’s Ruby environment | rbenv | 13163 |
@@ -3205,7 +3205,7 @@
 | 2 |  [cache](https://github.com/actions/cache) | Cache dependencies and build outputs in GitHub Actions | actions | 1737 |
 | 3 |  [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | peaceiris | 1801 |
 | 4 |  [ant-design](https://github.com/ant-design/ant-design) | 🌈  A UI Design Language and React UI library | ant-design | 4242 |
-| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21017 |
+| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21018 |
 | 6 |  [vsinder](https://github.com/benawad/vsinder) | Dating App for VSCode | benawad | 1786 |
 | 7 |  [blog.hellorusk.net](https://github.com/HelloRusk/blog.hellorusk.net) | Tech Blog | HelloRusk | 28 |
 | 8 |  [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. | supabase | 6254 |
