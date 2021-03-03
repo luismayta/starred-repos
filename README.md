@@ -875,7 +875,7 @@
 | 351 |  [termui](https://github.com/gizak/termui) | Golang terminal dashboard | gizak | 10665 |
 | 352 |  [amazon-ecs-agent](https://github.com/aws/amazon-ecs-agent) | Amazon Elastic Container Service Agent | aws | 1760 |
 | 353 |  [terraform-provider](https://github.com/alibaba/terraform-provider) | [DEPRECATED] This repo has been deprecated and please access https://github.com/terraform-providers/terraform-provider-alicloud | alibaba | 377 |
-| 354 |  [tidb](https://github.com/pingcap/tidb) | TiDB is an open source distributed HTAP database compatible with the MySQL protocol | pingcap | 26990 |
+| 354 |  [tidb](https://github.com/pingcap/tidb) | TiDB is an open source distributed HTAP database compatible with the MySQL protocol | pingcap | 26991 |
 | 355 |  [go-snake-telnet](https://github.com/plutov/go-snake-telnet) | Snake Game over telnet protocol in Go | plutov | 21 |
 | 356 |  [terragrunt](https://github.com/gruntwork-io/terragrunt) | Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. | gruntwork-io | 4799 |
 | 357 |  [amazon-ecs-cli](https://github.com/aws/amazon-ecs-cli) | The Amazon ECS CLI enables users to run their applications on ECS/Fargate using the Docker Compose file format, quickly provision resources, push/pull images in ECR, and monitor running applications on ECS/Fargate. | aws | 1535 |
@@ -1539,7 +1539,7 @@
 | 313 |  [goldstone-server](https://github.com/Solinea/goldstone-server) | Solinea&#39;s open infrastructure management and monitoring server component | Solinea | 12 |
 | 314 |  [flux](https://github.com/frontend-labs/flux) | Frontend Flux | frontend-labs | 26 |
 | 315 |  [popcorntime-smarttv](https://github.com/raphaelluchini/popcorntime-smarttv) | Version of Popcorn time for Samsung SmartTv | raphaelluchini | 216 |
-| 316 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 164514 |
+| 316 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 164515 |
 | 317 |  [casperjs](https://github.com/casperjs/casperjs) | CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS | casperjs | 7311 |
 | 318 |  [ScreenStream](https://github.com/wpp/ScreenStream) | Example Chrome extension for desktopCapture API (screen sharing). | wpp | 87 |
 | 319 |  [statsd](https://github.com/statsd/statsd) | Daemon for easy but powerful stats aggregation | statsd | 15631 |
@@ -2565,7 +2565,7 @@
 | 442 |  [django-slack](https://github.com/lamby/django-slack) | Slack integration for Django, using the templating engine to generate messages | lamby | 211 |
 | 443 |  [algorithms](https://github.com/keon/algorithms) | Minimal examples of data structures and algorithms in Python | keon | 18818 |
 | 444 |  [bumplus](https://github.com/dochang/bumplus) | Bump your project version | dochang | 5 |
-| 445 |  [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | faif | 27731 |
+| 445 |  [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | faif | 27732 |
 | 446 |  [awesome-aws](https://github.com/donnemartin/awesome-aws) | A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome. | donnemartin | 8969 |
 | 447 |  [pyjwt](https://github.com/jpadilla/pyjwt) | JSON Web Token implementation in Python | jpadilla | 3688 |
 | 448 |  [faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you. | joke2k | 12184 |
@@ -2801,7 +2801,7 @@
 | 41 |  [redmine](https://github.com/redmine/redmine) | Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com | redmine | 4019 |
 | 42 |  [kitabu](https://github.com/fnando/kitabu) | A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you&#39;ll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation. | fnando | 630 |
 | 43 |  [tmuxinator](https://github.com/tmuxinator/tmuxinator) | Manage complex tmux sessions easily | tmuxinator | 10532 |
-| 44 |  [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | hashicorp | 21570 |
+| 44 |  [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | hashicorp | 21571 |
 | 45 |  [vagrant-omnibus](https://github.com/chef-boneyard/vagrant-omnibus) | A Vagrant plugin that ensures the desired version of Chef is installed via the platform-specific Omnibus packages. | chef-boneyard | 563 |
 | 46 |  [librarian-puppet](https://github.com/rodjek/librarian-puppet) |  | rodjek | 706 |
 | 47 |  [vagrant-vsphere](https://github.com/nsidc/vagrant-vsphere) | VMware vSphere provider for Vagrant | nsidc | 582 |
@@ -2877,7 +2877,7 @@
 ## SCSS
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [doks](https://github.com/h-enk/doks) | Hugo theme helping you build modern documentation websites. | h-enk | 211 |
+| 1 |  [doks](https://github.com/h-enk/doks) | Hugo theme helping you build modern documentation websites. | h-enk | 212 |
 | 2 |  [cheatsheets](https://github.com/rstacruz/cheatsheets) | My cheatsheets | rstacruz | 10079 |
 
 **[⬆ Back to Index](#-contents)**
@@ -3205,7 +3205,7 @@
 | 2 |  [cache](https://github.com/actions/cache) | Cache dependencies and build outputs in GitHub Actions | actions | 1737 |
 | 3 |  [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | peaceiris | 1801 |
 | 4 |  [ant-design](https://github.com/ant-design/ant-design) | 🌈  A UI Design Language and React UI library | ant-design | 4242 |
-| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21015 |
+| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21016 |
 | 6 |  [vsinder](https://github.com/benawad/vsinder) | Dating App for VSCode | benawad | 1786 |
 | 7 |  [blog.hellorusk.net](https://github.com/HelloRusk/blog.hellorusk.net) | Tech Blog | HelloRusk | 28 |
 | 8 |  [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. | supabase | 6254 |
