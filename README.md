@@ -600,7 +600,7 @@
 | 76 |  [casbin](https://github.com/casbin/casbin) | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | casbin | 8736 |
 | 77 |  [gqlgen](https://github.com/99designs/gqlgen) | go generate based graphql server library | 99designs | 5631 |
 | 78 |  [kops](https://github.com/kubernetes/kops) | Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management | kubernetes | 12645 |
-| 79 |  [zerolog](https://github.com/rs/zerolog) | Zero Allocation JSON Logger | rs | 4419 |
+| 79 |  [zerolog](https://github.com/rs/zerolog) | Zero Allocation JSON Logger | rs | 4420 |
 | 80 |  [gqlgen-lambda](https://github.com/spachava753/gqlgen-lambda) | My implementation prototype on how to run a zero cost graphql layer in lambda with Go and GqlGen | spachava753 | 3 |
 | 81 |  [spidey](https://github.com/tinrab/spidey) | A Microservices and GraphQL based online store | tinrab | 312 |
 | 82 |  [go-paginator](https://github.com/vcraescu/go-paginator) | A simple way to implement pagination in Golang. | vcraescu | 75 |
@@ -686,7 +686,7 @@
 | 162 |  [latex](https://github.com/go-latex/latex) | Go package for LaTeX | go-latex | 31 |
 | 163 |  [3mux](https://github.com/aaronjanse/3mux) | Terminal multiplexer inspired by i3 | aaronjanse | 1540 |
 | 164 |  [cloudflared](https://github.com/cloudflare/cloudflared) | Argo Tunnel client | cloudflare | 1126 |
-| 165 |  [gitleaks](https://github.com/zricethezav/gitleaks) | Scan git repos (or files) for secrets using regex and entropy 🔑 | zricethezav | 7262 |
+| 165 |  [gitleaks](https://github.com/zricethezav/gitleaks) | Scan git repos (or files) for secrets using regex and entropy 🔑 | zricethezav | 7263 |
 | 166 |  [trivy](https://github.com/aquasecurity/trivy) | A Simple and Comprehensive Vulnerability Scanner for Container Images, Github Repositories and Filesystems. Suitable for CI | aquasecurity | 6569 |
 | 167 |  [mora](https://github.com/emicklei/mora) | MongoDB generic REST server in Go | emicklei | 282 |
 | 168 |  [gmux](https://github.com/davinche/gmux) | Another TMUX Session Manager... written in Go | davinche | 49 |
@@ -1258,7 +1258,7 @@
 | 32 |  [react-quill](https://github.com/zenoamaro/react-quill) | A Quill component for React. | zenoamaro | 4187 |
 | 33 |  [cross-env](https://github.com/kentcdodds/cross-env) | 🔀 Cross platform setting of environment scripts | kentcdodds | 5283 |
 | 34 |  [sequelize](https://github.com/sequelize/sequelize) | An easy-to-use multi SQL dialect ORM tool for Node.js | sequelize | 23808 |
-| 35 |  [eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | eslint | 18028 |
+| 35 |  [eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | eslint | 18029 |
 | 36 |  [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) | ❤️ Streaming torrent app for Mac, Windows, and Linux | webtorrent | 8144 |
 | 37 |  [normalizr](https://github.com/paularmstrong/normalizr) | Normalizes nested JSON according to a schema | paularmstrong | 19913 |
 | 38 |  [with-coffee](https://github.com/morajabi/with-coffee) | Made with ☕️ | morajabi | 50 |
@@ -1843,7 +1843,7 @@
 | 123 |  [ansible-playbook-rabbitmq](https://github.com/Mayeu/ansible-playbook-rabbitmq) | UNMAINTAINED. A playbook to install and configure RabbitMQ. | Mayeu | 103 |
 | 124 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 178242 |
 | 125 |  [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books | dariubs | 8987 |
-| 126 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 154194 |
+| 126 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 154195 |
 | 127 |  [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) | A community driven list of useful Emacs packages, libraries and others. | emacs-tw | 6289 |
 | 128 |  [php-nudity-filter](https://github.com/azwan082/php-nudity-filter) |  | azwan082 | 23 |
 | 129 |  [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) | 💀 The former home of Homebrew/homebrew (deprecated) | Homebrew | 27580 |
@@ -2447,7 +2447,7 @@
 | 324 |  [rest-framework-tutorial](https://github.com/encode/rest-framework-tutorial) | The Django REST framework tutorial. 🎓 | encode | 978 |
 | 325 |  [django-rest-framework-docs](https://github.com/manosim/django-rest-framework-docs) | Document Web APIs made with Django Rest Framework | manosim | 606 |
 | 326 |  [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | soimort | 39304 |
-| 327 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 26089 |
+| 327 |  [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 | satwikkansal | 26090 |
 | 328 |  [lazyload](https://github.com/thomasballinger/lazyload) | hack for causing Python modules to be loaded lazily | thomasballinger | 51 |
 | 329 |  [python-design-patterns](https://github.com/jenyacazacu/python-design-patterns) | A collection of scripts that exemplify the most common design patterns and their application written in Python | jenyacazacu | 1 |
 | 330 |  [gitless](https://github.com/gitless-vcs/gitless) | A simple version control system built on top of Git | gitless-vcs | 1588 |
@@ -2918,7 +2918,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 790 |
+| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 791 |
 | 2 |  [WHATSAPP-BANEO](https://github.com/Hacking-pch/WHATSAPP-BANEO) |  | Hacking-pch | 50 |
 | 3 |  [wifi-password](https://github.com/rauchg/wifi-password) | Get the password of the wifi you&#39;re on (bash) | rauchg | 3498 |
 | 4 |  [telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) | Get IP address on other side audio call in Telegram. | n0a | 29 |
@@ -3322,7 +3322,7 @@
 ## V
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &amp;lt;1s with zero library dependencies. https://vlang.io | vlang | 22928 |
+| 1 |  [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &amp;lt;1s with zero library dependencies. https://vlang.io | vlang | 22929 |
 
 **[⬆ Back to Index](#-contents)**
 
