@@ -1366,7 +1366,7 @@
 | 140 |  [react-proto](https://github.com/React-Proto/react-proto) | :art: React application prototyping tool for developers and designers :building_construction: | React-Proto | 3145 |
 | 141 |  [redux-thunk](https://github.com/reduxjs/redux-thunk) | Thunk middleware for Redux | reduxjs | 15997 |
 | 142 |  [redux-logger](https://github.com/LogRocket/redux-logger) | Logger for Redux | LogRocket | 5444 |
-| 143 |  [react-helmet](https://github.com/nfl/react-helmet) | A document head manager for React | nfl | 14763 |
+| 143 |  [react-helmet](https://github.com/nfl/react-helmet) | A document head manager for React | nfl | 14764 |
 | 144 |  [react-final-form](https://github.com/final-form/react-final-form) | 🏁 High performance subscription-based form state management for React | final-form | 6343 |
 | 145 |  [redux-form](https://github.com/redux-form/redux-form) | A Higher Order Component using react-redux to keep form state in a Redux store | redux-form | 12501 |
 | 146 |  [redux-actions](https://github.com/redux-utilities/redux-actions) | Flux Standard Action utilities for Redux. | redux-utilities | 6562 |
@@ -1681,7 +1681,7 @@
 ## OCaml
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [semgrep](https://github.com/returntocorp/semgrep) | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. | returntocorp | 3312 |
+| 1 |  [semgrep](https://github.com/returntocorp/semgrep) | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. | returntocorp | 3313 |
 | 2 |  [SATySFi](https://github.com/gfngfn/SATySFi) | A statically-typed, functional typesetting system | gfngfn | 810 |
 | 3 |  [pyre-check](https://github.com/facebook/pyre-check) | Performant type-checking for python. | facebook | 5190 |
 | 4 |  [reason-language-server](https://github.com/jaredly/reason-language-server) | A language server for reason, in reason | jaredly | 648 |
@@ -2918,7 +2918,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 788 |
+| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 789 |
 | 2 |  [WHATSAPP-BANEO](https://github.com/Hacking-pch/WHATSAPP-BANEO) |  | Hacking-pch | 50 |
 | 3 |  [wifi-password](https://github.com/rauchg/wifi-password) | Get the password of the wifi you&#39;re on (bash) | rauchg | 3498 |
 | 4 |  [telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) | Get IP address on other side audio call in Telegram. | n0a | 29 |
