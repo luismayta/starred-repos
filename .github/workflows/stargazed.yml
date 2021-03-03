@@ -10,7 +10,6 @@ on:
 
 env:
   NODE_VERSION: 14.15.5
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
   GH_USERNAME: luismayta
 
 jobs:
@@ -30,23 +29,27 @@ jobs:
       - name: install yarn
         run: npm install -g yarn
 
-      - name: Get Yarn cache path
-        id: yarn-cache-dir-path
+      - name: Get package manager's global cache path
+        id: global-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
 
-      - name: Cache Yarn cache and node_modules
+      - name: Cache package manager's global cache and node_modules
         id: cache-dependencies
         uses: actions/cache@v2
         with:
           path: |
-            ${{ steps.yarn-cache-dir-path.outputs.dir }}
+            ${{ steps.global-cache-dir-path.outputs.dir }}
             node_modules
-          key: ${{ runner.os }}-${{ env.NODE_VERSION }}-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: ${{ runner.os }}-${{ env.NODE_VERSION }}-
+          key: ${{ runner.os }}-${{ matrix.node-version }}-${{
+            hashFiles('**/yarn.lock'
+            ) }}
+          restore-keys: |
+            ${{ runner.os }}-${{ matrix.node-version }}-
 
-      - name: Install dependencies
-        run: yarn install
-        if: steps.cache-dependencies.outputs.cache-hit != 'true'
+      - name: Install Dependencies
+        run: yarn install --frozen-lockfile
+        if: |
+          steps.cache-dependencies.outputs.cache-hit != 'true'
 
   deploy:
     name: stargazed update
@@ -66,21 +69,29 @@ jobs:
       - name: install yarn
         run: npm install -g yarn
 
-      - name: Get Yarn cache path
-        id: yarn-cache-dir-path
+      - name: Get package manager's global cache path
+        id: global-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
 
-      - name: Cache Yarn cache and node_modules
+      - name: Cache package manager's global cache and node_modules
         id: cache-dependencies
         uses: actions/cache@v2
         with:
           path: |
-            ${{ steps.yarn-cache-dir-path.outputs.dir }}
+            ${{ steps.global-cache-dir-path.outputs.dir }}
             node_modules
-          key: ${{ runner.os }}-${{ env.NODE_VERSION }}-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: ${{ runner.os }}-${{ env.NODE_VERSION }}-
+          key: ${{ runner.os }}-${{ matrix.node-version }}-${{
+            hashFiles('**/yarn.lock'
+            ) }}
+          restore-keys: |
+            ${{ runner.os }}-${{ matrix.node-version }}-
+
+      - name: Install Dependencies
+        run: yarn install --frozen-lockfile
+        if: |
+          steps.cache-dependencies.outputs.cache-hit != 'true'
 
       - name: update repo
         id: update_repo
         run: |
-          yarn stargazed --username  ${{ env.GH_USERNAME }} --token ${{ env.GH_TOKEN }} --repo "starred-repos" --message "ci: stargazed update by github actions workflow" --sort
+          yarn stargazed --username ${{ env.GH_USERNAME }} --token ${{ secrets.GH_TOKEN }} --repo "starred-repos" --message "ci: stargazed update by github actions workflow" --sort
