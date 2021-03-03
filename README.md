@@ -152,7 +152,7 @@
 | 57 |  [phpredis](https://github.com/phpredis/phpredis) | A PHP extension for Redis | phpredis | 8881 |
 | 58 |  [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | redis | 47678 |
 | 59 |  [pcsxr](https://github.com/tetious/pcsxr) | PCSX-Reloaded is a PlayStation Emulator based on PCSX-df 1.9, with support for Windows, GNU/Linux and Mac OS X. | tetious | 5 |
-| 60 |  [linux](https://github.com/torvalds/linux) | Linux kernel source tree | torvalds | 106001 |
+| 60 |  [linux](https://github.com/torvalds/linux) | Linux kernel source tree | torvalds | 106002 |
 | 61 |  [yaf](https://github.com/laruence/yaf) | Fast php framework written in c, built in php extension | laruence | 4359 |
 | 62 |  [php-src](https://github.com/php/php-src) | The PHP Interpreter | php | 29528 |
 | 63 |  [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | git | 36106 |
@@ -557,7 +557,7 @@
 | 33 |  [tensorflow-and-go](https://github.com/Pisush/tensorflow-and-go) | Use the Go API to read CAPTCHAs using TensorFlow | Pisush | 53 |
 | 34 |  [haveibeenpwned](https://github.com/jakewarren/haveibeenpwned) | library and cmdline utility for the haveibeenpwned API | jakewarren | 2 |
 | 35 |  [pdfsearch](https://github.com/PaperCutSoftware/pdfsearch) | A full text search library for PDFs. | PaperCutSoftware | 37 |
-| 36 |  [go-git](https://github.com/go-git/go-git) | A highly extensible Git implementation in pure Go. | go-git | 2050 |
+| 36 |  [go-git](https://github.com/go-git/go-git) | A highly extensible Git implementation in pure Go. | go-git | 2051 |
 | 37 |  [thanos](https://github.com/thanos-io/thanos) | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. | thanos-io | 7922 |
 | 38 |  [go-client](https://github.com/neovim/go-client) | Nvim Go client | neovim | 279 |
 | 39 |  [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. | hashicorp | 8196 |
@@ -916,7 +916,7 @@
 | 392 |  [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 20381 |
 | 393 |  [docker-machine-driver-xhyve](https://github.com/machine-drivers/docker-machine-driver-xhyve) | docker-machine/minikube/minishift driver plugin for xhyve/hyperkit (native macOS hypervisor.framework) | machine-drivers | 880 |
 | 394 |  [gocommerce](https://github.com/netlify/gocommerce) | A headless e-commerce for JAMstack sites | netlify | 1168 |
-| 395 |  [hydra](https://github.com/ory/hydra) | OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid. | ory | 10337 |
+| 395 |  [hydra](https://github.com/ory/hydra) | OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid. | ory | 10338 |
 | 396 |  [ladon](https://github.com/ory/ladon) | A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. | ory | 1800 |
 | 397 |  [apex-go](https://github.com/apex/apex-go) | Golang runtime for Apex/Lambda. | apex | 289 |
 | 398 |  [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) | A provisioner for bootstrapping terraform resources with ansible | jonmorehouse | 520 |
@@ -1617,7 +1617,7 @@
 | 2 |  [Android-Architecture-Components-Kotlin](https://github.com/erikjhordan-rey/Android-Architecture-Components-Kotlin) | Sample used to practice Kotlin and Android Architecture Components. | erikjhordan-rey | 326 |
 | 3 |  [anko](https://github.com/Kotlin/anko) | Pleasant Android application development | Kotlin | 15905 |
 | 4 |  [ideavim](https://github.com/JetBrains/ideavim) | Vim emulation plugin for IDEs based on the IntelliJ Platform | JetBrains | 5485 |
-| 5 |  [iosched](https://github.com/google/iosched) | The Google I/O 2019 Android App | google | 20320 |
+| 5 |  [iosched](https://github.com/google/iosched) | The Google I/O 2019 Android App | google | 20321 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2567,7 +2567,7 @@
 | 444 |  [bumplus](https://github.com/dochang/bumplus) | Bump your project version | dochang | 5 |
 | 445 |  [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | faif | 27732 |
 | 446 |  [awesome-aws](https://github.com/donnemartin/awesome-aws) | A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome. | donnemartin | 8969 |
-| 447 |  [pyjwt](https://github.com/jpadilla/pyjwt) | JSON Web Token implementation in Python | jpadilla | 3688 |
+| 447 |  [pyjwt](https://github.com/jpadilla/pyjwt) | JSON Web Token implementation in Python | jpadilla | 3689 |
 | 448 |  [faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you. | joke2k | 12184 |
 | 449 |  [archive_aws-lambda-go-shim](https://github.com/lifadev/archive_aws-lambda-go-shim) | Author your AWS Lambda functions in Go, effectively. | lifadev | 799 |
 | 450 |  [whatsappcli](https://github.com/KarimJedda/whatsappcli) | Control your server from Whatsapp | KarimJedda | 680 |
@@ -3205,7 +3205,7 @@
 | 2 |  [cache](https://github.com/actions/cache) | Cache dependencies and build outputs in GitHub Actions | actions | 1737 |
 | 3 |  [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) | GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. | peaceiris | 1801 |
 | 4 |  [ant-design](https://github.com/ant-design/ant-design) | 🌈  A UI Design Language and React UI library | ant-design | 4242 |
-| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21018 |
+| 5 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 21020 |
 | 6 |  [vsinder](https://github.com/benawad/vsinder) | Dating App for VSCode | benawad | 1786 |
 | 7 |  [blog.hellorusk.net](https://github.com/HelloRusk/blog.hellorusk.net) | Tech Blog | HelloRusk | 28 |
 | 8 |  [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. | supabase | 6254 |
