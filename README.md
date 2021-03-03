@@ -169,7 +169,7 @@
 | 3 |  [Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers | Jackett | 5455 |
 | 4 |  [Chiota](https://github.com/PACTCare/Chiota) | Your IOTA Chat App | PACTCare | 48 |
 | 5 |  [claudiordgz.com](https://github.com/claudiordgz/claudiordgz.com) | Content and Code related to claudiordgz.com | claudiordgz | 1 |
-| 6 |  [blockchain](https://github.com/dvf/blockchain) | A simple Blockchain in Python | dvf | 5453 |
+| 6 |  [blockchain](https://github.com/dvf/blockchain) | A simple Blockchain in Python | dvf | 5454 |
 | 7 |  [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ShareX | 15332 |
 | 8 |  [x360ce](https://github.com/x360ce/x360ce) | Primary repository for the x360ce library, front-end and tools. | x360ce | 1867 |
 
@@ -179,7 +179,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [goost](https://github.com/goostengine/goost) | A general-purpose, extensible and customizable C++ extension for Godot Engine. | goostengine | 126 |
-| 2 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 14986 |
+| 2 |  [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | telegramdesktop | 14987 |
 | 3 |  [git-crypt](https://github.com/AGWA/git-crypt) | Transparent file encryption in git | AGWA | 5401 |
 | 4 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 90543 |
 | 5 |  [eos](https://github.com/EOSIO/eos) | An open source smart contract platform | EOSIO | 11067 |
@@ -244,7 +244,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [hugo-uilite](https://github.com/uicardiodev/hugo-uilite) |  | uicardiodev | 78 |
 | 2 |  [socicon](https://github.com/ericakfranz/socicon) | Lightweight alternative to FontAwesome, add the social icon font Socicon to your WordPress site today! | ericakfranz | 15 |
-| 3 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 26657 |
+| 3 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 26658 |
 | 4 |  [geeksforgeeks-as-books](https://github.com/codingwhite/geeksforgeeks-as-books) | Read the awesome articles on geeksforgeeks.org and leetcode.com on your Kindle or iPad, without distraction | codingwhite | 39 |
 | 5 |  [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | :octocat: Dark GitHub style | StylishThemes | 9507 |
 | 6 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 42815 |
@@ -793,7 +793,7 @@
 | 269 |  [gomi](https://github.com/b4b4r07/gomi) | 🗑️ Replacement for UNIX rm command! | b4b4r07 | 228 |
 | 270 |  [skeema](https://github.com/skeema/skeema) | Schema management CLI for MySQL | skeema | 855 |
 | 271 |  [aminal](https://github.com/liamg/aminal) | A modern cross-platform terminal emulator in Go | liamg | 2211 |
-| 272 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 18823 |
+| 272 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 18824 |
 | 273 |  [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | nektos | 11227 |
 | 274 |  [hydra](https://github.com/opennota/hydra) | Penetration testing tool. This repository has migrated to https://gitlab.com/opennota/hydra | opennota | 26 |
 | 275 |  [annie](https://github.com/iawia002/annie) | 👾 Fast, simple and clean video downloader | iawia002 | 14245 |
@@ -1341,7 +1341,7 @@
 | 115 |  [taskbook](https://github.com/klaussinani/taskbook) | Tasks, boards &amp; notes for the command-line habitat | klaussinani | 7948 |
 | 116 |  [vtop](https://github.com/MrRio/vtop) | Wow such top. So stats. More better than regular top. | MrRio | 3772 |
 | 117 |  [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 21067 |
-| 118 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 47372 |
+| 118 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 47373 |
 | 119 |  [antd-scss-theme-plugin](https://github.com/intoli/antd-scss-theme-plugin) | A Webpack plugin for customizing Ant Design with an SCSS theme file and using Ant Design&#39;s compiled variables in SCSS files throughout your project. | intoli | 176 |
 | 120 |  [react-app-rewired](https://github.com/timarney/react-app-rewired) | Override create-react-app webpack configs without ejecting | timarney | 7960 |
 | 121 |  [cerebro](https://github.com/cerebroapp/cerebro) | Open-source productivity booster with a brain | cerebroapp | 6809 |
@@ -1456,7 +1456,7 @@
 | 230 |  [ReLaXed](https://github.com/RelaxedJS/ReLaXed) | Create PDF documents using web technologies | RelaxedJS | 11551 |
 | 231 |  [aws-sdk-js](https://github.com/aws/aws-sdk-js) | AWS SDK for JavaScript in the browser and Node.js | aws | 6480 |
 | 232 |  [wellcomecollection.org](https://github.com/wellcomecollection/wellcomecollection.org) | Wellcome Collection&#39;s website and services that support it | wellcomecollection | 26 |
-| 233 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – | serverless | 38993 |
+| 233 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – | serverless | 38994 |
 | 234 |  [blessed-contrib](https://github.com/yaronn/blessed-contrib) | Build terminal dashboards using ascii/ansi art and javascript | yaronn | 14107 |
 | 235 |  [raml-test](https://github.com/wkleis/raml-test) | some tests with raml | wkleis | 1 |
 | 236 |  [osprey](https://github.com/mulesoft/osprey) | Generate Node.JS API middleware from a RAML definition | mulesoft | 428 |
@@ -2918,7 +2918,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 787 |
+| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 788 |
 | 2 |  [WHATSAPP-BANEO](https://github.com/Hacking-pch/WHATSAPP-BANEO) |  | Hacking-pch | 50 |
 | 3 |  [wifi-password](https://github.com/rauchg/wifi-password) | Get the password of the wifi you&#39;re on (bash) | rauchg | 3498 |
 | 4 |  [telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) | Get IP address on other side audio call in Telegram. | n0a | 29 |
@@ -3150,7 +3150,7 @@
 | 230 |  [clocker](https://github.com/brooklyncentral/clocker) | Apache Brooklyn cloud native infrastructure blueprints | brooklyncentral | 431 |
 | 231 |  [rbenv](https://github.com/rbenv/rbenv) | Groom your app’s Ruby environment | rbenv | 13163 |
 | 232 |  [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | Over 230 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty | mbadolato | 19207 |
-| 233 |  [prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh | sorin-ionescu | 11895 |
+| 233 |  [prezto](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh | sorin-ionescu | 11896 |
 | 234 |  [dotfiles](https://github.com/holman/dotfiles) | @holman does dotfiles | holman | 6096 |
 | 235 |  [phpenv](https://github.com/phpenv/phpenv) | Simple PHP version management | phpenv | 1053 |
 | 236 |  [macosx-iterm2-settings](https://github.com/fnichol/macosx-iterm2-settings) | A project to save the settings and preferences for iTerm2 to a Git repository in XML format which is easier for humans to reason about. | fnichol | 71 |
