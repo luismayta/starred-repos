@@ -201,7 +201,7 @@
 | 21 |  [berrylan](https://github.com/nymea/berrylan) | Raspberry Pi WiFi setup | nymea | 242 |
 | 22 |  [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. | pqrs-org | 12524 |
 | 23 |  [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) | Python wrapper around rapidjson | python-rapidjson | 415 |
-| 24 |  [opencv](https://github.com/opencv/opencv) | Open Source Computer Vision Library | opencv | 52699 |
+| 24 |  [opencv](https://github.com/opencv/opencv) | Open Source Computer Vision Library | opencv | 52700 |
 | 25 |  [solidity](https://github.com/ethereum/solidity) | Solidity, the Contract-Oriented Programming Language | ethereum | 9313 |
 | 26 |  [muon](https://github.com/brave/muon) | [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript | brave | 969 |
 | 27 |  [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) | FUSE-based file system backed by Amazon S3 | s3fs-fuse | 5011 |
@@ -244,7 +244,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [hugo-uilite](https://github.com/uicardiodev/hugo-uilite) |  | uicardiodev | 78 |
 | 2 |  [socicon](https://github.com/ericakfranz/socicon) | Lightweight alternative to FontAwesome, add the social icon font Socicon to your WordPress site today! | ericakfranz | 15 |
-| 3 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 26658 |
+| 3 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 26659 |
 | 4 |  [geeksforgeeks-as-books](https://github.com/codingwhite/geeksforgeeks-as-books) | Read the awesome articles on geeksforgeeks.org and leetcode.com on your Kindle or iPad, without distraction | codingwhite | 39 |
 | 5 |  [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | :octocat: Dark GitHub style | StylishThemes | 9507 |
 | 6 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 42815 |
@@ -338,7 +338,7 @@
 | 19 |  [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | [Example APPS] Basic Flutter apps, for flutter devs. | iampawan | 13549 |
 | 20 |  [flutter_sample](https://github.com/qihaipuchen/flutter_sample) | 小栗子 | qihaipuchen | 1 |
 | 21 |  [flutter-examples](https://github.com/nisrulz/flutter-examples) | [Examples] Simple basic isolated apps, for budding flutter devs. | nisrulz | 5352 |
-| 22 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | flutter | 114053 |
+| 22 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | flutter | 114054 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2228,7 +2228,7 @@
 | 105 |  [sentry-telegram](https://github.com/butorov/sentry-telegram) | Plugin for Sentry which allows sending notification via Telegram messenger. | butorov | 167 |
 | 106 |  [python-hunter](https://github.com/ionelmc/python-hunter) | Hunter is a flexible code tracing toolkit. | ionelmc | 594 |
 | 107 |  [flask-admin](https://github.com/flask-admin/flask-admin) | Simple and extensible administrative interface framework for Flask | flask-admin | 4630 |
-| 108 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 94551 |
+| 108 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 94550 |
 | 109 |  [redis-faina](https://github.com/facebookarchive/redis-faina) | A query analyzer that parses Redis&#39; MONITOR command for counter/timing stats about query patterns | facebookarchive | 1618 |
 | 110 |  [InstaPy](https://github.com/timgrossmann/InstaPy) | 📷 Instagram Bot - Tool for automated Instagram interactions | timgrossmann | 12402 |
 | 111 |  [django-cms](https://github.com/django-cms/django-cms) | The easy-to-use and developer-friendly CMS | django-cms | 8038 |
@@ -2266,7 +2266,7 @@
 | 143 |  [betamax](https://github.com/betamaxpy/betamax) | A VCR imitation designed only for python-requests. | betamaxpy | 464 |
 | 144 |  [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | tiangolo | 28091 |
 | 145 |  [ml-desnapify](https://github.com/ipsingh06/ml-desnapify) | Deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images | ipsingh06 | 121 |
-| 146 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 122795 |
+| 146 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 122796 |
 | 147 |  [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) | High level Python client for Elasticsearch | elastic | 3162 |
 | 148 |  [huey](https://github.com/coleifer/huey) | a little task queue for python | coleifer | 3390 |
 | 149 |  [fn.py](https://github.com/kachayev/fn.py) | Functional programming in Python: implementation of missing features to enjoy FP | kachayev | 3082 |
@@ -2918,7 +2918,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 789 |
+| 1 |  [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) | pystardust | 790 |
 | 2 |  [WHATSAPP-BANEO](https://github.com/Hacking-pch/WHATSAPP-BANEO) |  | Hacking-pch | 50 |
 | 3 |  [wifi-password](https://github.com/rauchg/wifi-password) | Get the password of the wifi you&#39;re on (bash) | rauchg | 3498 |
 | 4 |  [telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) | Get IP address on other side audio call in Telegram. | n0a | 29 |
