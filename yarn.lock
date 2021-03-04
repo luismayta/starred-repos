@@ -843,7 +843,7 @@ spdx-license-ids@^3.0.0:
   resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.7.tgz#e9c18a410e5ed7e12442a549fbd8afa767038d65"
   integrity sha512-U+MTEOO0AiDzxwFvoa4JVnMV6mZlJKk2sBLt90s7G0Gd0Mlknc7kxEn3nuDPNZRta7O2uy8oLcZLVT+4sqNZHQ==
 
-stargazed@^3.4.0:
+stargazed@3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/stargazed/-/stargazed-3.4.0.tgz#2edfb360b5645b1042f3afe233084f3e0af79140"
   integrity sha512-FgI74YYVupB0h0X9eIbkQLUEqgxe/AvRSv7aKAex+a6oE/WQmjTFJbKpHroxJ7l7SBPKlxnphXNcAr6JUJDZpA==
